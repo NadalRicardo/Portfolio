@@ -116,8 +116,7 @@
 
 })(jQuery);
 
-	// PopUp //
-	
+	/*// PopUp //
 	window.addEventListener('DOMContentLoaded', function () {
 		var popupContainer = document.getElementById('popup-container');
 		var overlay = document.getElementById('overlay');
@@ -143,5 +142,4 @@
 	  
 		showPopup();
 	  });
-	  
-	 
+	*/
