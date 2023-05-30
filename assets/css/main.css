@@ -3219,8 +3219,8 @@ input, select, textarea {
 			}
 
 	}
-
-		/* PopUp */
+	
+		/* PopUp 
 
 		#popup-container {
 			position: fixed;
@@ -3245,4 +3245,4 @@ input, select, textarea {
 			z-index: 9998;
 			display: none;
 		  }
-		  
+		  */
